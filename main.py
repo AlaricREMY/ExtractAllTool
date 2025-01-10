@@ -4,7 +4,7 @@ import os
 # This program extracts every zip file present in the CURRENT WORKING FOLDER (Aka the folder you currently execute the program from). 
 # If you want to edit this, edit the current_path variable.
 
-folder = "NDS Files"
+folder = ""
 # Leave empty if you want the files to be extracted to the folder they are currently in, or replace by the path to the folder you want to use.
 # Use %CURRENT_PATH% if you want to use a folder inside the one that currently hosts the program.
 
