@@ -7,4 +7,4 @@ By EnderTower
 That's pretty much it, I'm releasing that because I can, and because it might help other people. 
 
 I realise it's not advanced or whatever, but I really don't care, I didn't plan to publish it to start with.
-I needed this, programmed it, and published it.
+I needed this, programmed it, and happened to publish it.
